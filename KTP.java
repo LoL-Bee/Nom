@@ -19,5 +19,7 @@ public class KTP {
         System.out.println("Jenis Kelamin\t = "+ jenis_kelamin + "\t\tGolongan Darah = "+ golongan + "\nAlamat = "+alamat);
         System.out.println("\tRT/RW = "+RT_RW+ "\n\tKel/Desa = "+Kel_Desa+"\n\tKecamatan = "+Kecamatan+"\nAgama = "+Agama);
         System.out.println("Status = "+Status+"\nPekerjaan = "+Pekerjaan+"\nKewarganegaraan = "+Kewarganegaraan+"\nBerlaku Hingga = "+Berlaku);
+        System.out.println("=========================================");
+        System.out.println("KTP ini adalah contoh KTP yang tidak valid, hanya untuk keperluan belajar saja.");
     }
 }
